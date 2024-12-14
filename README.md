@@ -1,0 +1,1 @@
+Just some short code demonstrating how to implement the fibonacci sequence using memoization. Rather than using recursion, which is the typical approach, we use memoization to prevent stack overflow. 
